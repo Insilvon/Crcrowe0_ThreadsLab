@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Crcrowe0_ThreadsLab:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Crcrowe0_ThreadsLab_jar</output-path>
+    <root id="archive" name="Crcrowe0_ThreadsLab.jar">
+      <element id="module-output" name="Crcrowe0_ThreadsLab" />
+    </root>
+  </artifact>
+</component>
